@@ -1,0 +1,19 @@
+(1) Valeurg x
+(2) Empiler 5
+(3) :=
+(4) Valeurg y
+(5) Empiler 10
+(6) :=
+(7) Valeurd x
+(8) Valeurd y
+(9) >
+(10) Not
+(11) AllerSi 1000
+(12) Valeurg x
+(13) Valeurd x
+(14) Valeurd y
+(15) Valeurd x
+(16) -
+(17) +
+(18) :=
+(19) Etiq 1000
