@@ -18,7 +18,3 @@ tempCodeRunnerFile.*
 .vscode/
 .idea/
 .qodo/
-
-# Fichiers générés
-*.dSYM/
-*.su
