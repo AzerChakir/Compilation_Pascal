@@ -1,0 +1,24 @@
+# Fichiers compilés et objets
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# Fichiers temporaires et éditeurs
+*.swp
+*.swo
+*~
+.DS_Store
+tempCodeRunnerFile.*
+
+# Dossiers IDE et outils
+.vscode/
+.idea/
+.qodo/
+
+# Fichiers générés
+*.dSYM/
+*.su
